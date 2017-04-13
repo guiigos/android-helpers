@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Helpers</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_formulario">Aluno</string>
+    <string name="nome">Nome</string>
+    <string name="informe_o_nome">Informe o Nome!</string>
+    <string name="endereco">Endereço</string>
+    <string name="informe_o_endereco">Informe o Endereço!</string>
+    <string name="telefone">Telefone</string>
+    <string name="informe_o_telefone">Informe o Telefone!</string>
+    <string name="nota">Nota</string>
+    <string name="deseja_excluir_o_aluno">Deseja excluir o Aluno?</string>
+    <string name="confirmacao">Confirmação</string>
+</resources>
