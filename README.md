@@ -1,2 +1,6 @@
-# android-helpers
-Projeto de exemplo da utilização de helpers em um cadastro simples.
+# Android Helpers
+:iphone:  Projeto de exemplo da utilização de **helpers**.
+
+## Licença
+Projeto desenvolvido para fins acadêmicos.
+[MIT License](./LICENSE)
