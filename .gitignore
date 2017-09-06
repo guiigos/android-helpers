@@ -1,9 +1,9 @@
 *.iml
-.gradle
-AndroidHelpers/local.properties
-AndroidHelpers/.idea/workspace.xml
-AndroidHelpers/.idea/libraries
 .DS_Store
 AndroidHelpers/build
+AndroidHelpers/app/build
 AndroidHelpers/captures
+AndroidHelpers/.gradle/
+AndroidHelpers/.idea/
+AndroidHelpers/local.properties
 .externalNativeBuild
