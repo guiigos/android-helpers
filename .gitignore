@@ -1,9 +1,16 @@
-*.iml
-.DS_Store
-AndroidHelpers/build
-AndroidHelpers/app/build
-AndroidHelpers/captures
-AndroidHelpers/.gradle/
+
+# folders
+AndroidHelpers/build/
+AndroidHelpers/app/build/
+AndroidHelpers/captures/
 AndroidHelpers/.idea/
+AndroidHelpers/.gradle/
 AndroidHelpers/local.properties
 .externalNativeBuild
+
+
+# files
+*.log
+*.iml
+*.css.map
+*.DS_Store
