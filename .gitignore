@@ -7,7 +7,6 @@ AndroidHelpers/.gradle/
 AndroidHelpers/local.properties
 .externalNativeBuild
 
-
 # files
 *.log
 *.iml
