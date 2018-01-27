@@ -1,5 +1,5 @@
 # Android Helpers
-> Projeto de exemplo da utilização de **helpers** de formulário
+> Projeto de exemplo da utilização de **helpers** de formulário.
 
 [Arquivos fonte](AndroidHelpers/app/src/main/java/com/guiigos/androidhelpers)
 
