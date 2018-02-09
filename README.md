@@ -1,9 +1,9 @@
 # Android Helpers
-> Projeto de exemplo da utilização de **helpers** de formulário.
+> Example of android project to use form **helpers**.
 
-[Arquivos fonte](AndroidHelpers/app/src/main/java/com/guiigos/androidhelpers)
+[Font Files](AndroidHelpers/app/src/main/java/com/guiigos/androidhelpers)
 
-## Licença
-Projeto desenvolvido para fins acadêmicos.
+## License
+Project developed for academic purposes.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
