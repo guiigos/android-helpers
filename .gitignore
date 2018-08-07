@@ -1,14 +1,22 @@
-# folders
-AndroidHelpers/build/
-AndroidHelpers/app/build/
-AndroidHelpers/captures/
-AndroidHelpers/.idea/
-AndroidHelpers/.gradle/
-AndroidHelpers/local.properties
-.externalNativeBuild
+# Folders
+.externalNativeBuild/
+.gradle/
+.idea/
+build/
+app/build/
+captures/
 
-# files
+# Files
+*.apk
 *.log
 *.iml
-*.css.map
-*.DS_Store
+local.properties
+AndroidHelpers.iml
+
+# OS
+._*
+.DS_Store
+.DS_Store?
+.Trashes
+ehthumbs.db
+Thumbs.db
