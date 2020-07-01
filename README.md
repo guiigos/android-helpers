@@ -1,5 +1,5 @@
 # Android Helpers
-> Example of android project to use form **helpers**.
+> Example of android project to use form **helpers**
 
 [Font Files](AndroidHelpers/app/src/main/java/com/guiigos/androidhelpers)
 
