@@ -1,5 +1,5 @@
 # Android Helpers
-> Example of android project to use form **helpers**
+> Example of **Android** project using **form helpers** to facilitate the manipulation of information between the view and the controllers.
 
 [Font Files](AndroidHelpers/app/src/main/java/com/guiigos/androidhelpers)
 
