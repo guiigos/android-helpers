@@ -1,22 +1,39 @@
-# Folders
-.externalNativeBuild/
-.gradle/
-.idea/
-build/
+# built
+*.apk
+*.aar
+*.aab
+
+# generated
+bin/
+gen/
+out/
 app/build/
+
+# gradle
+.gradle/
+build/
+
+# log
+*.log
+
+# intellij
+*.iml
+.idea/
+
+# external
+.externalNativeBuild/
+.cxx/
+
+# captures
 captures/
 
-# Files
-*.apk
-*.log
-*.iml
+# local
 local.properties
-AndroidHelpers.iml
 
-# OS
+
+# macos
 ._*
 .DS_Store
 .DS_Store?
 .Trashes
-ehthumbs.db
 Thumbs.db
