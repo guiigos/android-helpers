@@ -30,7 +30,6 @@ captures/
 # local
 local.properties
 
-
 # macos
 ._*
 .DS_Store
